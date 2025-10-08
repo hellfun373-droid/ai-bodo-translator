@@ -1,0 +1,7 @@
+{
+  "name": "AI Bodo Translator",
+  "description": "An AI-powered translator for the Bodo language, featuring a contribution hub for community-driven improvements, a phrasebook, and gamified user contributions to improve accuracy over time.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
